@@ -12,6 +12,8 @@ public class Main {
         int num = 3;
         System.out.println(str1+" "+num);
 
+        
+
 
     }
 
