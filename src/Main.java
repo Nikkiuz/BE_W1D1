@@ -14,7 +14,7 @@ public class Main {
     }
 
     public static void inserisciInArray(String[] array, String parola){
-        return (array, parola);
+        
     }
 
 
